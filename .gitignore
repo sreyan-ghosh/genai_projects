@@ -1,3 +1,5 @@
 .ipynb_checkpoints/*
 .git/*
 genai/*
+__pycache__/*
+ApiSecrets.py

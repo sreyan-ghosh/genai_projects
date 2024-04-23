@@ -2,4 +2,7 @@
 .git/*
 genai/*
 __pycache__/*
+vecdb/
 ApiSecrets.py
+new_articles.zip
+.gitignore
